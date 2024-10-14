@@ -4,10 +4,10 @@ This project implements a Maze Generator using a randomized depth-first search a
 
 Key Features:
 
-Customizable maze dimensions
+• Customizable maze dimensions
 
-Real-time maze generation and pathfinding visualization
+• Real-time maze generation and pathfinding visualization
 
-A* algorithm for optimal pathfinding
+• A* algorithm for optimal pathfinding
 
 Potential future updates include adding more maze generation algorithms and advanced heuristics.
